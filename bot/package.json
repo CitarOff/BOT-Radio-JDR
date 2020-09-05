@@ -1,0 +1,15 @@
+{
+  "name": "Radio RP",
+  "version": "1.0.0",
+  "description": "Radio pour le jdr discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Citar",
+  "license": "ISC"
+}
