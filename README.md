@@ -38,11 +38,7 @@ Pour les JDR sur discord !!
 <!-- ABOUT THE PROJECT -->
 
 ## A propos
-  
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-  
 Le BOT à pour but de crée une radio sur discord pour envoyé des messages radio reçus par le destinataire en message privées et stocker dans un channel accessible uniquement par le MJ
   
 
